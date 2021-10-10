@@ -61,3 +61,5 @@ It applies K-Fold Cross Validation by trying the parameters I gave for the GridS
 the number of K for my project is 10. By dividing the cross validation process parameters and the train data we provide, it is determined at which values we can get the best result.
 
 An algorithm is created using the determined parameters and the algorithm is tested with the test data to be fitted with the train data.
+
+Detailed information about dataset can be found in the report.
